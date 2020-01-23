@@ -11,3 +11,11 @@
 ``
 npm i lit-selector
 ``
+
+## Examples
+
+<p>
+<code>
+const el = ls("div.user-panel.main input[name='login']");
+</code>
+</p>
