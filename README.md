@@ -29,10 +29,6 @@ npm i lit-selector
 ### A more complex selector
 
 <p>
-Selectors can also be really powerful, as demonstrated in the following example. Here, the first <input> element with the name "login" (<input name="login"/>) located inside a <div> whose class is "user-panel main" (<div class="user-panel main">) in the document is returned:
-</p>
-
-<p>
 <code>
 const el = ls("div.user-panel.main input[name='login']");
 </code>
