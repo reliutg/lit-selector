@@ -6,7 +6,7 @@
 
 
 ## Usage
-<p>To include LitSelector in  [Node](https://github.com/jquery/jquery/blob/HEAD/nodejs.org), first install with npm.</p>
+<p>To include LitSelector, first install with npm.</p>
 
 ``
 npm i lit-selector
