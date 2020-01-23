@@ -1,0 +1,15 @@
+{
+  "name": "lit-selector",
+  "version": "1.0.0",
+  "description": "LitSelector is a small and fast JavaScript library. It allows to select elements of the DOM in a very easy and efficient way.",
+  "repository": "regdev18/lit-selector",
+  "main": "index.js",
+  "keywords": [
+    "lit-selector",
+    "npm",
+    "package",
+    "regdev"
+  ],
+  "author": "Roberth González",
+  "license": "MIT"
+}
